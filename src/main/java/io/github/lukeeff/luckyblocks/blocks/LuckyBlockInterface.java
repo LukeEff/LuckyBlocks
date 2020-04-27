@@ -9,7 +9,7 @@ public interface LuckyBlockInterface {
      * @return an double representing the
      * probability of the ability
      */
-    double getChance();
+    double getWeight();
 
     /**
      * The logic behind the ability about

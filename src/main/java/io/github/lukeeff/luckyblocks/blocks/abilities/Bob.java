@@ -11,8 +11,8 @@ public class Bob extends BlockAbilities {
     }
 
     @Override
-    public int getChance() {
-        return 0;
+    public double getWeight() {
+        return 1;
     }
 
     @Override
